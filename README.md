@@ -1,1 +1,1 @@
-This are some basic quention practice for a beginner in python language
+This are some basic practice questions for a beginner in python language
