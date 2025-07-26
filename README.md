@@ -1,1 +1,1 @@
-These are some basic practice questions for a beginner in python language
+These are some basic practice questions for a beginner in python language who are looking to strengthen their understanding of python. It covers fundamental concept such loops, functions, conditionals and more. Each problem is solved with clear, concise Python code, along with comments to explain the question behind the solution.
